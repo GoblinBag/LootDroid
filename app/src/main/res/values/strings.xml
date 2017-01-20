@@ -5,4 +5,7 @@
     <string name="txtCampaignName">Título da campanha</string>
     <string name="errSameNameCampaign">Já existe uma campanha cadastrada com esse nome.</string>
     <string name="errCampaign">Erro ao criar campanha</string>
+    <string name="title_activity_campaign">CampaignActivity</string>
+    <string name="btnNewPlayer">Novo jogador</string>
+    <string name="btnNewSession">Nova sessão</string>
 </resources>
